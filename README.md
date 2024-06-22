@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I'm Abhay Donga, a pre-final year CSE student at Nirma University<br>🖥 Full-stack Web Developer<br>👨‍💻 Competitive Programmer</p>
+<p align="left">🎓 I'm Abhay Donga, a final year CSE student at Nirma University<br>🖥 Full-stack Web Developer<br>👨‍💻 Competitive Programmer</p>
 
 ###
 
